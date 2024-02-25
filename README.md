@@ -46,14 +46,6 @@ If you prefer to run SpinOSC without building it from source, you can download p
 
 3. Execute the downloaded file to run SpinOSC on your system.
 
-## Usage
-
-[Add instructions on how to use SpinOSC here.]
-
-## Contributing
-
-[Add contribution guidelines here.]
-
 ## License
 
-[Include license information here.]
+This project is licensed under the MIT License.
