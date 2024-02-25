@@ -1,6 +1,6 @@
 # SpinOSC
 
-SpinOSC is a program written in Rust for generating and manipulating sound waves using the Open Sound Control (OSC) protocol.
+SpinOSC is a program written in Rust that simulates spin oscillation.
 
 ## Installation
 
