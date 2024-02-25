@@ -2,6 +2,8 @@
 
 SpinOSC is a program written in Rust that simulates spin oscillation.
 
+Check detailed theoretical explanations [dinghly's blog](https://dinghly.github.io/posts/project1-spin/).
+
 
 https://github.com/halinkim/spinosc/assets/89760255/ce23308c-7697-4854-8c66-a4c7c914fa6d
 
